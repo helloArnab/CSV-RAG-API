@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pymongo
+sentence-transformers
+transformers
+pandas
+streamlit
+requests
+python-multipart
+torch
+python-dotenv
